@@ -53,7 +53,7 @@ def graph_hidden(net, layer, node):
             hid = net.hid3
 
         hid = (hid >= 0).float()
-        print(hid)
+
         # plot function computed by model
         plt.clf()
         plt.pcolormesh(xrange,yrange,(hid.cpu()[:,node]).view(yrange.size()[0],xrange.size()[0]), cmap='Wistia', shading='auto')
@@ -139,7 +139,6 @@ if list(net.parameters()):
         for layer in [1,2,3]:
             if layer < 3 or args.net == 'full4':
                 for node in range(args.hid):
-                    print(node)
                     graph_hidden(net, layer, node)
                     plt.scatter(full_input[:,0],full_input[:,1],
                                 c=1-full_target[:,0],cmap='RdYlBu')
