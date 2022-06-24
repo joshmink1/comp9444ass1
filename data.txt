@@ -1,1 +1,151 @@
 hid:5-try:1
+ep:200000 loss: 0.4967 acc: 67.31
+hid:5-try:2
+ep:200000 loss: 0.5221 acc: 67.69
+hid:5-try:3
+ep:200000 loss: 0.4718 acc: 67.31
+hid:5-try:4
+ep:200000 loss: 0.5063 acc: 65.00
+hid:5-try:5
+ep:200000 loss: 0.4850 acc: 65.77
+hid:10-try:1
+ep:200000 loss: 0.3425 acc: 75.38
+hid:10-try:2
+ep:200000 loss: 0.9805 acc: 88.46
+hid:10-try:3
+ep:200000 loss: 0.2472 acc: 87.31
+hid:10-try:4
+ep:200000 loss: 0.2433 acc: 85.77
+hid:10-try:5
+ep:200000 loss: 0.2479 acc: 84.62
+hid:12-try:1
+ep:200000 loss: 0.2785 acc: 86.15
+hid:12-try:2
+ep:200000 loss: 0.2301 acc: 86.15
+hid:12-try:3
+ep:200000 loss: 0.1627 acc: 90.38
+hid:12-try:4
+ep:200000 loss: 0.3300 acc: 80.00
+hid:12-try:5
+ep:200000 loss: 0.1707 acc: 90.77
+hid:14-try:1
+ep:200000 loss: 0.0905 acc: 96.15
+hid:14-try:2
+ep:200000 loss: 0.2023 acc: 89.23
+hid:14-try:3
+ep:200000 loss: 0.1243 acc: 93.08
+hid:14-try:4
+ep:200000 loss: 0.0982 acc: 93.85
+hid:14-try:5
+ep:200000 loss: 0.1267 acc: 92.69
+hid:16-try:1
+ep:200000 loss: 0.0822 acc: 95.77
+hid:16-try:2
+ep:200000 loss: 0.1751 acc: 88.85
+hid:16-try:3
+ep:200000 loss: 0.0225 acc: 98.85
+hid:16-try:4
+ep:200000 loss: 0.0601 acc: 98.46
+hid:16-try:5
+ep:200000 loss: 0.0709 acc: 96.15
+hid:18-try:1
+ep:200000 loss: 0.0420 acc: 98.46
+hid:18-try:2
+ep:200000 loss: 0.0334 acc: 99.23
+hid:18-try:3
+ep:200000 loss: 0.2831 acc: 90.38
+hid:18-try:4
+ep:200000 loss: 0.0843 acc: 95.77
+hid:18-try:5
+ep:200000 loss: 0.0264 acc: 98.46
+hid:20-try:1
+ep:200000 loss: 0.0061 acc: 100.00
+hid:20-try:2
+ep:200000 loss: 0.0363 acc: 98.85
+hid:20-try:3
+ep:200000 loss: 0.0199 acc: 99.23
+hid:20-try:4
+ep:200000 loss: 0.0728 acc: 96.54
+hid:20-try:5
+ep:200000 loss: 0.0117 acc: 99.62
+hid:24-try:1
+ep:91000 loss: 0.0052 acc: 100.00
+hid:24-try:2
+ep:189400 loss: 0.0031 acc: 100.00
+hid:24-try:3
+ep:94900 loss: 0.0034 acc: 100.00
+hid:24-try:4
+ep:33000 loss: 0.0025 acc: 100.00
+hid:24-try:5
+ep:200000 loss: 0.0332 acc: 98.46
+DEFAULT HID IS 10
+lr:0.02-try:1
+ep:200000 loss: 0.3255 acc: 79.62
+lr:0.02-try:2
+ep:200000 loss: 0.4162 acc: 73.46
+lr:0.02-try:3
+ep:200000 loss: 0.4382 acc: 71.15
+lr:0.02-try:4
+ep:200000 loss: 0.2916 acc: 81.54
+lr:0.02-try:5
+ep:200000 loss: 0.3860 acc: 76.15
+lr:0.03-try:1
+ep:200000 loss: 0.4356 acc: 70.77
+lr:0.03-try:2
+ep:200000 loss: 0.5870 acc: 59.23
+lr:0.03-try:3
+ep:200000 loss: 0.4973 acc: 68.85
+lr:0.03-try:4
+ep:200000 loss: 0.5923 acc: 61.54
+lr:0.03-try:5
+ep:200000 loss: 0.4688 acc: 69.62
+lr:0.04-try:1
+ep:200000 loss: 0.5316 acc: 67.31
+lr:0.04-try:2
+ep:200000 loss: 0.5875 acc: 61.15
+lr:0.04-try:3
+ep:200000 loss: 0.6445 acc: 56.15
+lr:0.04-try:4
+ep:200000 loss: 0.5485 acc: 64.23
+lr:0.04-try:5
+ep:200000 loss: 0.6135 acc: 59.23
+lr:0.05-try:1
+ep:200000 loss: 0.5439 acc: 67.31
+lr:0.05-try:2
+ep:200000 loss: 0.5955 acc: 60.00
+lr:0.05-try:3
+ep:200000 loss: 0.4834 acc: 70.77
+lr:0.05-try:4
+ep:200000 loss: 0.4567 acc: 73.46
+lr:0.05-try:5
+ep:200000 loss: 0.5211 acc: 66.92
+lr:0.1-try:1
+ep:200000 loss: 0.5522 acc: 64.62
+lr:0.1-try:2
+ep:200000 loss: 0.6486 acc: 57.31
+lr:0.1-try:3
+ep:200000 loss: 0.6421 acc: 56.54
+lr:0.1-try:4
+ep:200000 loss: 0.6044 acc: 60.38
+lr:0.1-try:5
+ep:200000 loss: 0.5985 acc: 63.08
+lr:0.15-try:1
+ep:200000 loss: 0.5472 acc: 66.92
+lr:0.15-try:2
+ep:200000 loss: 0.6611 acc: 58.46
+lr:0.15-try:3
+ep:200000 loss: 0.6739 acc: 51.92
+lr:0.15-try:4
+ep:200000 loss: 0.6092 acc: 63.46
+lr:0.15-try:5
+ep:200000 loss: 0.6182 acc: 60.00
+lr:0.2-try:1
+ep:200000 loss: 0.6379 acc: 61.15
+lr:0.2-try:2
+ep:200000 loss: 0.5565 acc: 68.85
+lr:0.2-try:3
+ep:200000 loss: 0.6336 acc: 62.31
+lr:0.2-try:4
+ep:200000 loss: 0.6777 acc: 57.69
+lr:0.2-try:5
+ep:200000 loss: 0.6616 acc: 59.23
