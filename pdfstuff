@@ -1,0 +1,2 @@
+part 2
+- Write down that the 1 to 10 index lines (the hortizontal lines going from bottom) were flipped (e.g., 100000 became 111110 and 111000 became 111000 and 111110 became 100000)
